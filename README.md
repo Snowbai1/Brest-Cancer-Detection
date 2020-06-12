@@ -33,6 +33,8 @@
 
 2. 数据处理方面，尤其是读入和写入数据这块费了很多时间。调整格式非常不熟练，于是借助了excel、记事本手动去调整数据。
 
+（决策树部分暂时还没有写完上传）
+
 ### 6. Reference
 
 https://github.com/tslgithub/image_class
